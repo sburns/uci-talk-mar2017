@@ -5,3 +5,7 @@ The talk is titled *Learning from the Pros: Modern Data Systems for Cinicians an
 ## Abstract
 
 The rise of the Internet has changed most if not all aspects of our lives. At its core, the Internet distributes and exposes data on scales unfathomable just a few decades ago. One area that lags in moving towards modern, scalable data workflows are research and clinical studies. For a variety of reasons, these programs tend to use tools and principles misaligned with best practices around data management. This talk will present desirable traits in any data management system and how clinicians and researchers can better design and build workflows that prevent random errors, allow users to step off the data treadmill and focus their attention on higher-level work.
+
+## Slides
+
+The slides are posted on [Speakerdeck](https://speakerdeck.com/sburns/learning-from-the-pros-modern-data-management-for-clinicians-and-scientists). Enjoy!
